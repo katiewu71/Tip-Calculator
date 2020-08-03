@@ -27,13 +27,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/w29LuSa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Overall, building this app was an exciting introduction to Swift. I learned a ton during the 2.5 hours I spent building the app, and it generally went very smoothly. However, I ran into some mysterious bugs - for example, the decimal pad would occasionally not appear if I tried to build with the iPhone 11 simulator, but would consistently work with the iPhone 8 simulator. 
 
 ## License
 
